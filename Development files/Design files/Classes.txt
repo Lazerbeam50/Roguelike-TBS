@@ -1,0 +1,43 @@
+Battlemage
+	- Average growth in str, dex and int. Can use all weapons.
+Barbarian
+	- High HP and str, low def. Uses swords, axes and bows.
+Cavalier
+	- Mounted, balanced stats. Speed and damage bonus depends on how far the unit moved in a
+		single direction. Uses swords, axes and lances.
+Priest
+	- Can heal and cast light magic only
+Heavy
+	- Slow but with high HP and def. Uses swords, axes and lances.
+Wizard
+	- Can cast all offense magic
+Swordsman
+	- High speed and dex. Can only use swords but has an increased crit chance
+Archer
+	- High dex and speed, cannot fight in close combat but has a bonus to ranged damage and
+	an increased crit chance
+Bat Rider
+	- Flying unit with high speed and res. Can wield swords, lances and bows.
+Rogue
+	- Can pick locks and steal, high speed, medium dex and an incresed crit chance
+Pikeman
+	- Balanced stats. Can only use lances but gains stat bonus for being adjacent to another
+		Pikeman
+Griffin Rider
+	- Flying unit with decent strength and defence. Can wield axes and lances.
+Bard
+	- Can refesh units. Player can only have one at a time. Can wield swords.
+War Cleric
+	- Average str and mag growth. Can heal and fight with swords and axes
+Shifter (Cat form)
+	- Dex and speed based
+Shifter (Bear form)
+	- HP and strength based
+Sorcerer (Fire/Air/Ice)
+	- Dragon form offensive caster. Very weak untransformed but can use a breath attack.
+Chronomancer (Stop/Haste/Slow)
+	- Supporting spellcaster
+Enchanter (Elemental boost/Bulk/Elemental resist/Remove element)
+	- Supporting spellcaster, but can use daggers
+Witch (Poison/Curse/Dispel/Mute/Beserk)
+	- Supporting spellcaster, but can use daggers
